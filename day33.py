@@ -22,3 +22,6 @@ print("Modulus:", a % b)
 
 # Exponentiation (power)
 print("Exponentiation:", a ** b)
+
+
+total 7  programs
