@@ -11,7 +11,6 @@ print("Temperature in Fahrenheit:", fahrenheit)
 
 
 
-
 #2. Convert Kilometers to Miles
 km = float(input("Enter distance in kilometers: "))
 
