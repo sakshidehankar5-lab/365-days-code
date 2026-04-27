@@ -3,7 +3,6 @@ numbers = {1, 2, 3, 4, 5}
 print(numbers)
 
 
-
 #Create a Set from a List
 
 my_list = [1, 2, 2, 3, 4, 4]
