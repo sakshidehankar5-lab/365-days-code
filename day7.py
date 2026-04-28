@@ -10,6 +10,7 @@ print(student)
 
 
 
+
 # Nested dictionary
 students = {
     "s1": {"name": "Rahul", "age": 20},
@@ -29,7 +30,6 @@ for word in words:
     count[word] = count.get(word, 0) + 1
 
 print(count)
-
 
 
 
