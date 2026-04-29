@@ -1,4 +1,5 @@
 #Prime Number Check
+
 num = int(input("Enter a number: "))
 flag = 0
 
