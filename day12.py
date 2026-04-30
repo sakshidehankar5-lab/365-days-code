@@ -1,6 +1,5 @@
 #list,set,tuple,dictionary
 
-
 list1=[1,"python","ram",215]
 print(type(list1))
 print(list1)
@@ -30,7 +29,6 @@ for i in range(0,n):
     list1.append(ele)
 
 print(list1)
-
 
 
 
