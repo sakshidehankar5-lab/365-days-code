@@ -1,5 +1,6 @@
 #list,set,tuple,dictionary
 
+
 list1=[1,"python","ram",215]
 print(type(list1))
 print(list1)
