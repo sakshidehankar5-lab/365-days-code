@@ -16,7 +16,6 @@ d.bark()  # Dog's own method
 
 
 
-
 #Multiple Inheritance
 class Animal:
     def eat(self):
