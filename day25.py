@@ -15,7 +15,6 @@ except ValueError:
 
 
 
-
 #2 Using a General Exception
 try:
     x = int(input("Enter a number: "))
