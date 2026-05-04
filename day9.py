@@ -9,6 +9,8 @@ if no_space.lower() == reversed_sentence.lower():           #Check palindrome
 else:
     print("Not a palindrome")
 
+
+
 #2st program
 #max and min
 #a=int(input("enter any number"))
@@ -25,11 +27,13 @@ nums.sort()
 print("Second largest:", nums[-2])
 
 
+
 #4th program
 l=[2,6,8,9,3,2,6]
 l=list(set(l))
 l.sort()
 print(l[-2])
+
 
 
 #5th program
@@ -42,6 +46,7 @@ print(freq)
 
 
 
+
 #6th program
 s="programing"
 freq = {}
@@ -51,11 +56,13 @@ print(freq)
 
 
 
+
 #7th program
 #using max and min (show indexing value)
 nums = [8, 2, 7, 5]
 nums.sort()
 print("Second smallest:", nums[1])
+
 
 
 
