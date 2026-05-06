@@ -3,6 +3,7 @@ numbers = {1, 2, 3, 4, 5}
 print(numbers)
 
 
+
 #Create a Set from a List
 my_list = [1, 2, 2, 3, 4, 4]
 my_set = set(my_list)
@@ -45,20 +46,20 @@ B = {3, 4}
 
 print(A.difference(B))
 
+
+
 #Check if Element Exists
-
 numbers = {10, 20, 30, 40}
-
 if 20 in numbers:
     print("20 is in the set")
 
 
 # Remove Duplicate Elements
-
 data = [1, 1, 2, 3, 3, 4, 5]
 unique_data = set(data)
-
 print(unique_data)
+
+
 
 # Loop Through a Set
 animals = {"cat", "dog", "lion"}
