@@ -18,9 +18,6 @@ s1.display()
 
 
 
-
-
-
 # 2. Inheritance
 class Animal:
     def speak(self):
@@ -33,8 +30,6 @@ class Dog(Animal):
 d = Dog()
 d.speak()
 d.bark()
-
-
 
 
 
@@ -60,6 +55,7 @@ c = Cat()
 
 b.sound()
 c.sound()
+
 
 
 
