@@ -8,7 +8,6 @@ for i in range(rows):
 
 
 
-
 #2nd program
 #check whether is armstrong (or , not)
 n = int(input("Enter number: "))
@@ -29,6 +28,7 @@ else:
 
 
 
+
 #3rd program
 n=1251
 power=len(str(n))
@@ -44,6 +44,7 @@ while temp>0:
 
 
 
+
 #4th program
 for i in range(5):
     for j in range(5):
@@ -53,11 +54,11 @@ for i in range(5):
 
 
 
+
 #5th program
 for i in range(5):
     for j in range(5):
         print("*")
-
 
 
 
