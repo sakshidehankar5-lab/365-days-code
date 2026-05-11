@@ -12,10 +12,6 @@ def divide(a, b):
         return "Cannot divide by zero"
     return a / b
 
-
-
-
-
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
 
@@ -42,3 +38,30 @@ elif choice == "4":
 
 else:
     print("Invalid choice")
+
+
+
+
+
+
+
+
+#2nd code
+import random
+
+secret_number = random.randint(1, 10)
+
+print("Guess a number between 1 and 10")
+
+while True:
+    guess = int(input("Enter your guess: "))
+
+    if guess < secret_number:
+        print("Too low!")
+
+    elif guess > secret_number:
+        print("Too high!")
+
+    else:
+        print("Correct! You guessed it.")
+        break
