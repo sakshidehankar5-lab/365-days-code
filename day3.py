@@ -1,6 +1,7 @@
 # Create a list of numbers
 numbers = [5, 10, 15, 20, 25]
 
+
 print("Even and Odd numbers:")
 
 for num in numbers:
