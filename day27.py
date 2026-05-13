@@ -5,6 +5,8 @@ student = {
     "course": "BCA"
 }
 
+
+
 #Access Values
 print(student["name"])   # Rahul
 print(student.get("age"))
@@ -25,7 +27,6 @@ for key, value in student.items():
 
 
 
-
 #Important Methods
 student.keys()     # all keys
 student.values()   # all values
@@ -42,7 +43,6 @@ cart = {
 
 total_items = sum(cart.values())
 print(total_items)
-
 
 
 
