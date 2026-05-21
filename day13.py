@@ -11,7 +11,6 @@ print(my_set)
 
 
 
-
 #Add an Element to a Set
 fruits = {"apple", "banana", "mango"}
 fruits.add("orange")
