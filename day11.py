@@ -19,7 +19,6 @@ print(numbers)
 
 
 
-
 #Union of Two Sets 4
 a = {1, 2, 3}
 b = {3, 4, 5}
