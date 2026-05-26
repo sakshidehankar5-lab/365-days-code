@@ -26,7 +26,6 @@ else:
 
 
 
-
 #3rd program
 n=1251
 power=len(str(n))
