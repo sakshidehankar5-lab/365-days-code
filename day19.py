@@ -13,8 +13,7 @@ class Student:
         if marks >= 0 and marks <= 100:
             self.__marks = marks
         else:
-   
-            
+         
         print("Invalid marks")
 
 # object creation
@@ -33,7 +32,6 @@ print(s1.get_marks())
 
 
 
-
 #2nd program
 class BankAccount:
     def __init__(self, balance):
@@ -44,7 +42,6 @@ class BankAccount:
 
     def get_balance(self):
         return self.__balance
-
 
 acc = BankAccount(1000)
 
