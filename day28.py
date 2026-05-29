@@ -30,7 +30,6 @@ with open("example.txt", "w") as file:
 
 
 
-
 #4. Working with CSV Files
 import csv
 
