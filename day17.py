@@ -5,7 +5,6 @@ file.close()
 
 
 
-
 #2Read a File
 file = open("example.txt", "r")
 content = file.read()
@@ -14,11 +13,11 @@ file.close()
 
 
 
+
 #3Append Data to File
 file = open("example.txt", "a")
 file.write("\nThis line is added later.")
 file.close()
-
 
 
 
@@ -32,13 +31,13 @@ file.close()
 
 
 
-
 #5Count Words in File
 file = open("example.txt", "r")
 text = file.read()
 words = text.split()
 print("Total words:", len(words))
 file.close()
+
 
 
 
