@@ -9,6 +9,7 @@ else:
 
 
 
+
 #2. Using `or`
 marks = 35
 
@@ -16,6 +17,7 @@ if marks >= 40 or marks == 35:
     print("You passed")
 else:
     print("You failed")
+
 
 
 
@@ -29,6 +31,7 @@ else:
 
 
 
+
 #4. Combining `and` + `or`
 age = 25
 income = 30000
@@ -37,6 +40,7 @@ if age > 18 and (income > 25000 or age > 30):
     print("Loan approved")
 else:
     print("Loan rejected")
+
 
 
 
@@ -59,6 +63,7 @@ if not (num % 2 == 0):
     print("Number is odd")
 else:
     print("Number is even")
+
 
 
 #7. Range Check
