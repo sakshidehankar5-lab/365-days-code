@@ -14,6 +14,7 @@ print(t[2])   # last element
 
 
 
+
 #Tuple unpacking
 t = (5, 10)
 a, b = t
@@ -36,7 +37,6 @@ for i in t:
 #Single element tuple
 t = (5,)
 print(type(t))
-
 
 
 
