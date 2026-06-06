@@ -3,6 +3,7 @@ text = input("Enter string: ")
 print(text[::-1])
 
 
+
 #Check Palindrome
 text = input("Enter text: ")
 
