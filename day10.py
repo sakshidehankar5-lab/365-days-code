@@ -6,7 +6,6 @@ for i in range(rows):
     print("*" * cols)
 
 
-
 #2nd program
 #check whether is armstrong (or , not)
 n = int(input("Enter number: "))
