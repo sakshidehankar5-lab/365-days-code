@@ -14,7 +14,6 @@ print(list1[3:])
 
 
 
-
 #sclicing
 list1=[1,"python","ram",215]
 print(type(list1))
