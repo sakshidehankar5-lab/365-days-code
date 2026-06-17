@@ -4,6 +4,7 @@ class Student:
         self.name = name          # public variable
         self.__marks = marks      # private variable
 
+    
     # getter method
     def get_marks(self):
         return self.__marks
